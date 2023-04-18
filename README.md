@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Я в активном поиске работы
 - :computer: Программирую на React
 - :pencil: Изучаю TypeScript
 - :zap: Люблю аккуратно и адаптивно верстать
