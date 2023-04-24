@@ -36,9 +36,17 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Больше обо мне
-- [HeadHunter](https://spb.hh.ru/resume/ab3d43e2ff0bba6f570039ed1f653331613747)
-- [Habr Career](https://career.habr.com/vallugovaia)
+<a href="https://spb.hh.ru/resume/ab3d43e2ff0bba6f570039ed1f653331613747">
+  <img src="https://hhcdn.ru/ichameleon/00181.png" height="50">
+</a>
+<a href="https://career.habr.com/vallugovaia">
+  <img src="https://www.ph4.ru/DL/LOGO/h/habr_career_.gif" height="50">
+</a>
 
 ## Контакты
-- [Telegram](https://t.me/vaal_meadow)
-- [E-mail](mailto:val.lugovaia@gmail.com)
+<a href="https://t.me/vaal_meadow">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="mailto:val.lugovaia@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
