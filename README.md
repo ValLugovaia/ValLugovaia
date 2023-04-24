@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Моя статистика
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValLugovaia&layout=compact)](https://github.com/ValLugovaia/github-readme-stats)
+
 ## Больше обо мне
 <a href="https://spb.hh.ru/resume/ab3d43e2ff0bba6f570039ed1f653331613747">
   <img src="https://hhcdn.ru/ichameleon/00181.png" height="50">
