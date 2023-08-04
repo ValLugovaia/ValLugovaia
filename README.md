@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Я в активном поиске работы
 - :computer: Программирую на React
-- :pencil: Изучаю TypeScript
+- :pencil: Изучаю TypeScript и Redux
 - :zap: Люблю аккуратно и адаптивно верстать
-- :sunny: Умею в БЭМ и ООП
+- :sunny: Умею в БЭМ
 - :raising_hand: Самостоятельна, инициативна, умею работать в команде
 - :rocket: Хочу развиваться в опытном коллективе на реальных проектах
 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
   <img src="https://hhcdn.ru/ichameleon/00181.png" height="50">
 </a>
 <a href="https://career.habr.com/vallugovaia">
-  <img src="https://www.ph4.ru/DL/LOGO/h/habr_career_.gif" height="50">
+  <img src="https://sun9-33.userapi.com/impg/mhwtpadWMIdJ4E_G3hOqAjBuhfIDa0DkCi3HtQ/QB-ibNz9EBA.jpg?size=537x240&quality=96&sign=ac0b5c09f97dc2da263360d1a266a1c7&type=share" height="50">
 </a>
 
 ## Контакты
