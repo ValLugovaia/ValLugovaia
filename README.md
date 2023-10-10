@@ -1,4 +1,4 @@
-### Привет, я Валентина, начинающий Frontend-разработчик 👋
+### Привет, я Валентина, Frontend-разработчик 👋
 
 <!--
 **ValLugovaia/ValLugovaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
